@@ -1,0 +1,23 @@
+﻿item_id,item_name,description,price,category_id,is_vegetarian,is_spicy,is_gluten_free
+1,Poutine,French fried with cheese curds and gravy,8.99,1,TRUE,FALSE,FALSE
+2,Tourtière,Traditional meat pie with flaky pastry,12.99,1,FALSE,FALSE,FALSE
+3,Maple-Glazed Salmon,Grilled salmon with a maple glaze,18.99,2,FALSE,FALSE,FALSE
+4,Smoked Meat Sandwich,Montreal-style smoked meat on rye bread,10.99,2,FALSE,FALSE,FALSE
+5,Tarte au Sucre,Classic sugar pie with a rich filling,7.99,3,TRUE,FALSE,FALSE
+6,Beignes,Freshly fried doughnuts with various toppings,5.99,3,TRUE,FALSE,FALSE
+7,Québecois Tourtière Pizza,Tourtière-inspired pizza with a flaky crust,14.99,2,FALSE,FALSE,FALSE
+8,Fèves au Lard,Baked beans cooked with maple syrup and pork,6.99,1,TRUE,FALSE,TRUE
+9,Cider-Braised Pork,Slow-cooked pork in apple cider and spices,16.99,2,FALSE,FALSE,FALSE
+10,Soupe aux Pois,Traditional split pea soup with ham,4.99,1,FALSE,FALSE,TRUE
+11,Ragoût des Boulettes,Meatball stew with vegetables and gravy,9.99,2,FALSE,FALSE,FALSE
+12,Pouding Chômeur,Warm cake soaked in maple syrup,7.99,3,TRUE,FALSE,FALSE
+13,Crevettes à l'Ail,Garlic butter shrimp served with crusty bread,11.99,1,FALSE,TRUE,TRUE
+14,Rôti de Porc aux Pommes,Roast pork with apple compote,15.99,2,FALSE,FALSE,FALSE
+15,Pets de Sœurs,Rolled pastry filled with brown sugar and cinnamon,6.99,3,TRUE,FALSE,FALSE
+16,Croquettes de Morue,Cod fishcakes served with a tangy dipping sauce,8.99,1,FALSE,FALSE,FALSE
+17,Cipaille,Layered meat and vegetable pie,13.99,2,FALSE,FALSE,FALSE
+18,Tarte au Sirop d'Érable,Maple syrup pie with a buttery crust,9.99,3,TRUE,FALSE,FALSE
+19,Gratin de Patates au Fromage,Cheesy scalloped poratoes,7.99,2,TRUE,FALSE,FALSE
+20,Thé à la Menthe,Fresh mint tea with honey and lemon,2.49,4,TRUE,FALSE,TRUE
+21,Café Crème,Smooth and creamy coffee,2.99,4,TRUE,FALSE,TRUE
+22,Jus de Pomme,Freshly squeezed apple juice,3.49,4,TRUE,FALSE,TRUE
